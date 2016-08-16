@@ -44,4 +44,4 @@ This source code is licensed under the [MIT][mit] license. If you in any way use
 [bibtex]: http://www.bibtex.org/
 [xplore]: http://ieeexplore.ieee.org/Xplore/home.jsp
 [scholar]: https://scholar.google.com/
-[diva]: http://kth.diva-portal.org/smash/record.jsf?dswid=-2592
+[diva]: http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A951514&dswid=-4369
